@@ -66,3 +66,5 @@ flag文件模块默认执行cat /flag
 <img width="814" height="360" alt="image" src="https://github.com/user-attachments/assets/2088c924-c786-43b7-9e02-2e7a10b4bbaf" />
 
 这里哥斯拉-asp-xor-base64，请求包需要手动去除pass=并且需要解URL编码，回显包需要手动删除前后的6位字符串
+
+PS：最后感谢Jason师傅的帮助。
