@@ -8,4 +8,12 @@
 
 ## 文本处理模块
 <img width="810" height="426" alt="image" src="https://github.com/user-attachments/assets/7f6b5419-8240-4549-a0f2-1b83f8695fcf" />
-图片处理模块
+## 图片处理模块
+<img width="806" height="295" alt="image" src="https://github.com/user-attachments/assets/09e66813-22ee-4717-96e0-fc71a0ab3456" />
+## 字符处理模块
+<img width="804" height="779" alt="image" src="https://github.com/user-attachments/assets/e3f5c941-f14c-4fbf-a951-25780b828c40" />
+## AWD模块
+### 信息收集
+<img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/fa9f29b4-f93b-4fb9-a4ca-5f577bbd4c9a" />
+## 防护
+<img width="1160" height="946" alt="image" src="https://github.com/user-attachments/assets/93b67863-5bae-4dde-ac60-0e02fec5adf3" />
