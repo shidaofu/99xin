@@ -1,8 +1,9 @@
 # 99新
 一款CTF工具
 
-​		先叠个甲非专业开发，非全职，开发的初衷就是为了使用方便顺手。如果大家在使用中有什么好的想法或者工具的bug可以在这个【腾讯文档】https://docs.qq.com/sheet/DYm5IekJQaEdzRnBL
-填写，如果我有时间并且有能力解决我会去解决。
+​		先叠个甲非专业开发，非全职，开发工具的初衷就是为了做题的时候方便。如果大家有遇到什么新颖好玩的题目可以加群一起讨论。
+
+<img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/7c91b0ba-9646-47fc-9456-7ba2e39ddf85" />
 
 PS：最后感谢Jason师傅的帮助。
 
